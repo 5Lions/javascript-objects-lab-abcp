@@ -14,4 +14,4 @@ function destructivelyUpateObjectWithKeyAndValue(object, key, value) {
   return object;
 }
 
-console.log(destructivelyUpateObjectWithKeyAndValue(recipes, test, food));
+//console.log(destructivelyUpateObjectWithKeyAndValue(recipes, test, food));
