@@ -10,5 +10,6 @@ console.log(recipes);
 var recipes = {}
 
 function destructivelyUpateObjectWithKeyAndValue(object, key, value) {
-  
+  object[key] = value;
+  console.log()
 }
